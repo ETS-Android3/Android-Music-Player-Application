@@ -1,0 +1,4 @@
+#Mon Jul 12 00:24:06 IST 2021
+base.0=A\:\\python\\App development\\MusicPlay\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
